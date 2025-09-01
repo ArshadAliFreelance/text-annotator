@@ -1,0 +1,6 @@
+
+{
+  "name": "Text Annotator",
+  "description": "An app to automatically generate and edit annotations for text files using the Gemini API.",
+  "requestFramePermissions": []
+}
